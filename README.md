@@ -2,7 +2,7 @@
 Talleres de la materia Algoritmos y Estructuras 2. <br>
 Lenguaje: Java <br>
 
-Los Talleres abarcan temas como: 
+Los Talleres abarcan temas como:  <br>
 . Iniciación en Java. <br>
 . Debugging, testing y manejo de archivos. <br>
 . Colecciones e iteradores (Listas enlazadas y doblemente enlazadas). <br>
